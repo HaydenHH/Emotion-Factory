@@ -1,0 +1,11 @@
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 610 89">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="frame" x="26.27" y="15.58" width="563.46" height="58.84" rx="29.42" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <title>sc3Input</title>
+  <g style="clip-path: url(#clip-path)">
+    <rect id="level2" x="26.15" y="15.48" width="0" height="58.84" style="fill: #c1272d"/>
+  </g>
+</svg>

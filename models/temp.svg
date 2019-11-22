@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 565 903" enable-background="new 0 0 565 903" xml:space="preserve">
+<g id="图层_1">
+	
+		<linearGradient id="bg2_2_" gradientUnits="userSpaceOnUse" x1="282.5" y1="178.313" x2="282.5" y2="-278.1097" gradientTransform="matrix(1 0 0 -1 0 576)">
+		<stop  offset="0" style="stop-color:#FF931E;stop-opacity:0.5"/>
+		<stop  offset="0.992" style="stop-color:#FF931E"/>
+	</linearGradient>
+	<polygon id="bg2_1_" fill="url(#bg2_2_)" points="565,345 0,574 0,903 565,903 	"/>
+	<g id="bg_1_">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="292.27" y1="307.7928" x2="292.27" y2="-160.3829" gradientTransform="matrix(1 0 0 -1 0 576)">
+			<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+			<stop  offset="0.992" style="stop-color:#FF931E"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M292.3,786.5L292.3,786.5c-46.6,0-84.4-37.8-84.4-84.4V298.6c0-46.6,37.8-84.4,84.4-84.4l0,0
+			c46.6,0,84.4,37.8,84.4,84.4v403.5C376.7,748.7,338.9,786.5,292.3,786.5z"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_2_" d="M303.8,786.5h-23c-40.3,0-72.9-32.7-72.9-72.9V287.1c0-40.3,32.7-72.9,72.9-72.9h23
+				c40.3,0,72.9,32.6,72.9,72.9v426.5C376.7,753.9,344.1,786.5,303.8,786.5z"/>
+		</defs>
+		<clipPath id="SVGID_3_">
+			<use xlink:href="#SVGID_2_"  overflow="visible"/>
+		</clipPath>
+		<rect id="temp" x="171" y="774" clip-path="url(#SVGID_3_)" fill="#FF1D25" width="234" height="13"/>
+	</g>
+	<path id="highlight_1_" fill="#FFFFFF" d="M242.5,458.6L242.5,458.6c-4.7,0-8.4-3.8-8.4-8.4V267.8c0-4.7,3.8-8.4,8.4-8.4l0,0
+		c4.7,0,8.4,3.8,8.4,8.4v182.3C250.9,454.8,247.2,458.6,242.5,458.6z"/>
+</g>
+<g id="图层_3_1_">
+</g>
+<g id="图层_2">
+</g>
+</svg>
